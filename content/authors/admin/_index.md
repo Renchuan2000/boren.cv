@@ -3,16 +3,15 @@
 title: 丁波壬
 
 # Name pronunciation (optional)
-name_pronunciation: Boren Ding
+name_pronunciation: Ding Bo Ren
 
 # Full name (for SEO)
-first_name: Boren
+first_name: Bo Ren
 last_name: Ding
 
 # Status emoji
 status:
-  icon: 🧑‍🎓️
-
+  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -26,13 +25,13 @@ role: bachelor’s graduate
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: seeking a master’s program
-    
+    url: https://renchuan2000.github.io/boren.cv/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:dingboren2001@gmail.com'
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
@@ -45,205 +44,134 @@ profiles:
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0009-4312-6758
 
 interests:
   - Artificial Intelligence
   - Computer Vision
   - Pattern Recognition
+
 education:
-  - area:  BSc in Computer Science and Technology
+  # - area: BSc in Computer Science and Technology
+  #   institution: Geely University
+  #   date_start: 2020-09-01
+  #   date_end: 2024-06-30
+  #   summary: |
+  #     Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+  #   button:
+  #     text: 'Read Thesis'
+  #     url: 'https://example.com'
+  # - area: MEng Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     GPA: 3.8/4.0
+
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BSc in Computer Science and Technology
     institution: Geely University
-    date_start: 2020-09
-    date_end: 2024-06
+    date_start: 2020-09-01
+    date_end: 2024-06-30
     summary: |
-      GPA: 3.6/4.0
+      GPA: 3.5/4.0
       
       Courses included:
       - Operating Systems (99)
-      - Discrete mathematics (92)
       - Network Programming (98)
       - Distributed Storage and Computing(94)
-      - Python Data processing (92)
-# work:
-#  - position: "Research Assistant in Perception Algorithm"
-#     company_name: Geely Auto Group
-#     company_url: 'https://global.geely.com/'
-#     company_logo: ''
-#     date_start: 2023-10-01
-#     date_end: 2024-06-30
-#     summary: |2-
-#       Responsibilities include:
-#       - Participated in developing the vision perception module for automated parking algorithms, enhancing the vehicle's perception in complex environments and the system's overall performance.
-#   - position: "AIGC Development Intern"
-#     company_name: Inceptions AI(Remota)
-#     company_url: 'https://www.runcomfy.com/'
-#     company_logo: ''
-#     date_start: 2024-07-01
-#     date_end: 2024-11-30
-#     summary: |2-
-#       Responsibilities include:
-#       - Worked on developing an AI - driven product platform based on generative models, focusing on model optimization, functional design, and requirement implementation to promote AIGC commercialization and innovation.
-#   - position: "AI Workflow Developer"
-#     company_name: CometAPI Platform
-#     company_url: 'https://www.cometapi.com/'
-#     company_logo: ''
-#     date_start: 2024-12-01
-#     date_end: ''
-#     summary: |2-
-#       Responsibilities include:
-#       - Leveraged CometAPI's API integration capabilities to combine various AI models and develop automated workflows, improving task efficiency and accuracy.
-
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Research Assistant in Perception Algorithm
+    company_name: Geely Auto Group
+    company_url: 'https://global.geely.com/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-10-01
+    date_end: 2024-06-30
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Participated in developing the vision perception module for automated parking algorithms, enhancing the vehicle's perception in complex environments and the system's overall performance.
+  - position: AI Workflow Developer
+    company_name: CometAPI
+    company_url: 'https://www.cometapi.com/'
     company_logo: ''
-    date_start: 2016-01-01
+    date_start: 2024-12-01
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Leveraged CometAPI's API integration capabilities to combine various AI models and develop automated workflows, improving task efficiency and accuracy.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-   - name: Technical Skills
+  - name: Technical Skills
     items:
       - name: Python
         description: ''
-        percent: 100
+        percent: 80
         icon: code-bracket
+      - name: Data Science
+        description: ''
+        percent: 80
+        icon: chart-bar
       - name: JAVA
         description: ''
-        percent: 70
-        icon: code-bracket
-      - name: TensorFlow
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Keras
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Pytorch
-        description: ''
-        percent: 80
-        icon: code-bracket
-  - name: Soft Skills
-    items:
-      - name: Time Management
-        description: ''
-        percent: 80
-        icon: clock
-      - name: Event Management
-        description: ''
-        percent: 80
-        icon: calendar
-      - name: Public Speaking
-        description: ''
-        percent: 75
-        icon: microphone
-      - name: Leadership
-        description: ''
-        percent: 85
-        icon: shield
+        percent: 65
+        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Skiing
+      - name: Hiking
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Customized Keyboard
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
         description: ''
         percent: 80
-        icon: keyboard
-      - name: Board Games
-        description: ''
-        percent: 70
-        icon: game
-      - name: Tea Art
-        description: ''
-        percent: 65
-        icon: tea
-      - name: Traveling
-        description: ''
-        percent: 75
-        icon: airplane
+        icon: camera
 
 languages:
-  - name: Chinese
-    percent: 100
   - name: English
     percent: 80
+  - name: Chinese
+    percent: 100
+  - name: Portuguese
+    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-   - title: National Scholarship
-    date: '2023-01-01'
+  - title: National Scholarship
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2023-01-25'
     awarder: Chinese government
-    icon: ''
-    description: 'Highest scholarship awarded by Chinese government, 0.2%'
+    icon: coursera
+    summary: |
+      Highest scholarship awarded by Chinese government, 0.2%
   - title: Sichuan Provincial Outstanding Graduate Award
+    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
     date: '2023-01-01'
     awarder: Sichuan Province
-    icon: ''
-    description: 'Top honor awarded by Sichuan Province, 1%'
-  - title: Achievement Scholarship
-    date: '2021-01-01'
-    awarder: Department
-    icon: ''
-    description: 'Awarded to the top 1% in the department'
-  - title: Merit Student of the School
-    date: '2022-01-01'
-    awarder: School
-    icon: ''
-    description: 'Recognized as the Top 5% in the school'
-  - title: 1st Provincial Prize at Chinese Undergraduate Computer Design Competition
-    date: '2021-01-01'
-    awarder: Competition Committee
-    icon: ''
-    description: ''
-  - title: 2023 Provincial Prize at China College Students' 'Internet+' Innovation and Entrepreneurship Competition
-    date: '2023-01-01'
-    awarder: Competition Committee
-    icon: ''
-    description: ''
-  - title: Successful Participant, Mathematical Contest in Modeling
-    date: '2023-01-01'
-    awarder: Contest Organizer
-    icon: ''
-    description: ''
-  - title: Top ten Excellent volunteers
-    date: '2023-01-01'
-    awarder: Volunteer Organization
-    icon: ''
-    description: ''
-  - title: Academic Star of the College
-    date: '2021-01-01'
-    awarder: College
-    icon: ''
-    description: ''
-    url: 'https://sit.guc.edu.cn/page352.html'
-
+    icon: edx
+    summary: |
+      Top honor awarded by Sichuan Province, 1%
+  - title: 'Achievement Scholarship'
+    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+    certificate_url: https://www.datacamp.com
+    date: '2023-01-21'
+    awarder: department
+    icon: datacamp
+    summary: |
+      Awarded to the top 1% in the department
 ---
 
 ## About Me

@@ -5,6 +5,12 @@ event: Joined CometAPI Platform as a Technical Product Manager
 event_url: https://api.cometapi.com
 
 location: CometAPI Platform
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
 
 summary: Joined CometAPI Platform as a Technical Product Manager.
 abstract: 'I'm excited to join CometAPI Platform as a Technical Product Manager. In this role, I will bridge technology and product development, leveraging the platform's API integrations to create innovative solutions. My focus will be on enhancing workflow automation and exploring new applications of AI models through efficient API combinations. I aim to drive product development forward, ensuring our solutions are both cutting-edge and user-centric. This is a fantastic opportunity to contribute to a dynamic platform and shape the future of AI-driven technologies.'
