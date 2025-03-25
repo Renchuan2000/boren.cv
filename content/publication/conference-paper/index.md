@@ -25,22 +25,28 @@ publishDate: '2023-09-01T00:00:00Z'
 publication_types: ['paper-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Studies in Informatics and Control*
-publication_short: In *SIC*
+---
+publication: "In *Studies in Informatics and Control*"
+publication_short: "In *SIC*"
 
-abstract: Deep semi-supervised clustering approaches, which use supervised data to help the deep neural network acquire
-cluster-friendly representations, have improved clustering performance and simultaneously increased the semantic value of
-the clustering results. However, the majority of them cannot utilize both labeled and unlabeled data completely. Furthermore,
-in these methods, the supervised information is either passively acquired or randomly picked, which may be insufficient,
-redundant, and even decrease the performance of these models. This paper provides a deep semi-supervised clustering
-technique with active learning to address the problems mentioned above. The procedure is divided into two sections: model
-training and data labeling. In the model training section, the paired data is used to train the pseudo-Siamese network, and
-then the sub networks of the pseudo-Siamese network are fine-tuned using self-training. A new query strategy is devised in
-the data labeling part, which combines the traditional uncertainty query strategy with the deep Bayesian uncertainty query
-strategy. Finally, substantial tests are conducted to confirm the utility of the suggested approach on certain real-world data
-sets. The results of the tests demonstrate that both the suggested method and query strategy are practical.
+abstract: |
+  Deep semi-supervised clustering approaches, which use supervised data to help the deep neural network acquire
+  cluster-friendly representations, have improved clustering performance and simultaneously increased the semantic value of
+  the clustering results. However, the majority of them cannot utilize both labeled and unlabeled data completely. Furthermore,
+  in these methods, the supervised information is either passively acquired or randomly picked, which may be insufficient,
+  redundant, and even decrease the performance of these models. This paper provides a deep semi-supervised clustering
+  technique with active learning to address the problems mentioned above. The procedure is divided into two sections: model
+  training and data labeling. In the model training section, the paired data is used to train the pseudo-Siamese network, and
+  then the sub networks of the pseudo-Siamese network are fine-tuned using self-training. A new query strategy is devised in
+  the data labeling part, which combines the traditional uncertainty query strategy with the deep Bayesian uncertainty query
+  strategy. Finally, substantial tests are conducted to confirm the utility of the suggested approach on certain real-world data
+  sets. The results of the tests demonstrate that both the suggested method and query strategy are practical.
+
 # Summary. An optional shortened abstract.
-summary: This paper presents a novel deep semi-supervised clustering method with active learning, enhancing clustering performance by handling complex constraints and improving efficiency through active learning strategies.
+summary: |
+  This paper presents a novel deep semi-supervised clustering method with active learning, enhancing clustering performance by
+  handling complex constraints and improving efficiency through active learning strategies.
+---
 
 tags:
   - Deep Learning
