@@ -15,15 +15,15 @@ summary: "Joined CometAPI Platform as a Technical Product Manager."
 abstract: |
   "I'm excited to join CometAPI Platform as a Technical Product Manager. In this role, I will bridge technology and product development, leveraging the platform's API integrations to create innovative solutions. My focus will be on enhancing workflow automation and exploring new applications of AI models through efficient API combinations. I aim to drive product development forward, ensuring our solutions are both cutting-edge and user-centric. This is a fantastic opportunity to contribute to a dynamic platform and shape the future of AI-driven technologies."
 
-
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-03-019T13:00:00Z'
-date_end: '2025-09-01T15:00:00Z'
+
+date: "2025-03-19T13:00:00Z"
+date_end: "2025-09-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-03-020T00:00:00Z'
+publishDate: "2025-03-20T00:00:00Z"
 
 authors:
   - admin
@@ -42,10 +42,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
-url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+url_code: "https://github.com"
+url_pdf: ""
+url_slides: "https://slideshare.net"
+url_video: "https://youtube.com"
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -62,15 +62,3 @@ slides: ""
 projects:
   - example
 ---
-
-<!-- {{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. -->
