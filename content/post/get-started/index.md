@@ -1,7 +1,7 @@
 ---
 title: Joined CometAPI！
 summary: Joined CometAPI Platform as a Technical Product Manager.
-date: 2025-03-019
+date: '2025-03-19'
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
