@@ -1,6 +1,6 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
+title: Joined Geely Global Company
+summary: I interned as a Perception Algorithm Engineer at Geely Global Company, contributing to projects that enhance vehicle perception capabilities.
 date: 2023-10-26
 authors:
   - admin
@@ -8,18 +8,12 @@ tags:
   - Second Brain
   - Markdown
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: [**Geely Company**](https://geely.com)'
 ---
 
-Create a personal knowledge base and share your knowledge with your peers.
+Participated in developing the vision perception module for automated parking algorithms, enhancing the vehicle’s perception in complex environments and the system’s overall performance.
 
-Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.
-
-Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.
-
-Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.
-
-## Mindmaps
+<!-- ## Mindmaps
 
 Hugo Blox supports a Markdown extension for mindmaps.
 
@@ -135,4 +129,4 @@ Or use the `warning` callout type so your readers don't miss critical details:
 A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
 {{% /callout %}}
 
-## Did you find this page helpful? Consider sharing it 🙌
+## Did you find this page helpful? Consider sharing it 🙌 -->
