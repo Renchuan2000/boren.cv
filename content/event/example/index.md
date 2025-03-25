@@ -15,24 +15,26 @@ address:
 summary: Joined CometAPI Platform as a Technical Product Manager.
 abstract: 'I'm excited to join CometAPI Platform as a Technical Product Manager. In this role, I will bridge technology and product development, leveraging the platform's API integrations to create innovative solutions. My focus will be on enhancing workflow automation and exploring new applications of AI models through efficient API combinations. I aim to drive product development forward, ensuring our solutions are both cutting-edge and user-centric. This is a fantastic opportunity to contribute to a dynamic platform and shape the future of AI-driven technologies.'
 
+
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2025-03-019T13:00:00Z'
+date_end: '2025-09-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-03-023T00:00:00Z'
+publishDate: '2025-03-020T00:00:00Z'
 
 authors:
   - admin
 
-tags: [work]
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'CometAPI'
   focal_point: Right
 
 #links:
@@ -40,10 +42,10 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://api.cometapi.com'
-url_pdf: 'https://api.cometapi.com'
-url_slides: 'https://api.cometapi.com'
-url_video: 'https://api.cometapi.com'
+url_code: 'https://github.com'
+url_pdf: ''
+url_slides: 'https://slideshare.net'
+url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -60,8 +62,8 @@ slides: ""
 projects:
   - example
 ---
-<!-- 
-{{% callout note %}}
+
+<!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
