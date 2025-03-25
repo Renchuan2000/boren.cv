@@ -66,7 +66,7 @@ education:
       - Distributed Storage and Computing(94)
       - Python Data processing (92)
 work:
- - position: Research Assistant in Perception Algorithm
+ - position: "Research Assistant in Perception Algorithm"
     company_name: Geely Auto Group
     company_url: 'https://global.geely.com/'
     company_logo: ''
@@ -75,7 +75,7 @@ work:
     summary: |2-
       Responsibilities include:
       - Participated in developing the vision perception module for automated parking algorithms, enhancing the vehicle's perception in complex environments and the system's overall performance.
-  - position: AIGC Development Intern
+  - position: "AIGC Development Intern"
     company_name: Inceptions AI(Remota)
     company_url: 'https://www.runcomfy.com/'
     company_logo: ''
@@ -84,7 +84,7 @@ work:
     summary: |2-
       Responsibilities include:
       - Worked on developing an AI - driven product platform based on generative models, focusing on model optimization, functional design, and requirement implementation to promote AIGC commercialization and innovation.
-  - position: AI Workflow Developer
+  - position: "AI Workflow Developer"
     company_name: CometAPI Platform
     company_url: 'https://www.cometapi.com/'
     company_logo: ''
