@@ -65,34 +65,58 @@ education:
       - Network Programming (98)
       - Distributed Storage and Computing(94)
       - Python Data processing (92)
+# work:
+#  - position: "Research Assistant in Perception Algorithm"
+#     company_name: Geely Auto Group
+#     company_url: 'https://global.geely.com/'
+#     company_logo: ''
+#     date_start: 2023-10-01
+#     date_end: 2024-06-30
+#     summary: |2-
+#       Responsibilities include:
+#       - Participated in developing the vision perception module for automated parking algorithms, enhancing the vehicle's perception in complex environments and the system's overall performance.
+#   - position: "AIGC Development Intern"
+#     company_name: Inceptions AI(Remota)
+#     company_url: 'https://www.runcomfy.com/'
+#     company_logo: ''
+#     date_start: 2024-07-01
+#     date_end: 2024-11-30
+#     summary: |2-
+#       Responsibilities include:
+#       - Worked on developing an AI - driven product platform based on generative models, focusing on model optimization, functional design, and requirement implementation to promote AIGC commercialization and innovation.
+#   - position: "AI Workflow Developer"
+#     company_name: CometAPI Platform
+#     company_url: 'https://www.cometapi.com/'
+#     company_logo: ''
+#     date_start: 2024-12-01
+#     date_end: ''
+#     summary: |2-
+#       Responsibilities include:
+#       - Leveraged CometAPI's API integration capabilities to combine various AI models and develop automated workflows, improving task efficiency and accuracy.
+
 work:
- - position: "Research Assistant in Perception Algorithm"
-    company_name: Geely Auto Group
-    company_url: 'https://global.geely.com/'
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
+    company_url: ''
     company_logo: ''
-    date_start: 2023-10-01
-    date_end: 2024-06-30
-    summary: |2-
-      Responsibilities include:
-      - Participated in developing the vision perception module for automated parking algorithms, enhancing the vehicle's perception in complex environments and the system's overall performance.
-  - position: "AIGC Development Intern"
-    company_name: Inceptions AI(Remota)
-    company_url: 'https://www.runcomfy.com/'
-    company_logo: ''
-    date_start: 2024-07-01
-    date_end: 2024-11-30
-    summary: |2-
-      Responsibilities include:
-      - Worked on developing an AI - driven product platform based on generative models, focusing on model optimization, functional design, and requirement implementation to promote AIGC commercialization and innovation.
-  - position: "AI Workflow Developer"
-    company_name: CometAPI Platform
-    company_url: 'https://www.cometapi.com/'
-    company_logo: ''
-    date_start: 2024-12-01
+    date_start: 2021-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - Leveraged CometAPI's API integration capabilities to combine various AI models and develop automated workflows, improving task efficiency and accuracy.
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
