@@ -24,7 +24,6 @@ publishDate: '2023-09-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
----
 publication: "In *Studies in Informatics and Control*"
 publication_short: "In *SIC*"
 
@@ -41,11 +40,13 @@ abstract: |
   strategy. Finally, substantial tests are conducted to confirm the utility of the suggested approach on certain real-world data
   sets. The results of the tests demonstrate that both the suggested method and query strategy are practical.
 
+
+
+
 # Summary. An optional shortened abstract.
 summary: |
   This paper presents a novel deep semi-supervised clustering method with active learning, enhancing clustering performance by
   handling complex constraints and improving efficiency through active learning strategies.
----
 
 tags:
   - Deep Learning
