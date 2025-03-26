@@ -1,22 +1,23 @@
 ---
-title: 📈 Communicate your results effectively with the best data visualizations
-summary: Use popular tools such as Plotly, Mermaid, and data frames.
-date: 2023-10-25
+title: Joined RunComfy
+summary: Joined RunComfy as a AI Product Intern！
+
+date: 2024-07-25
 authors:
   - admin
 tags:
-  - Hugo
-  - Hugo Blox
-  - Markdown
+  - Work
+  - AIGC
+  - Workflow
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  caption: 'Image credit: [**RunComfy**](https://unsplash.com)'
 ---
 
-Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
+My work responsibilities:
 
-Use popular tools such as Plotly, Mermaid, and data frames.
+I was accountable for the functional design and requirement implementation of the AI - driven product platform, guaranteeing efficient progress from concept to release. I collected user needs via surveys and community feedback, pinpointed key pain points, and transformed them into functional optimizations. I also carried out market research and competitor analysis to formulate data - driven product strategies.
 
-## Charts
+<!-- ## Charts
 
 Hugo Blox supports the popular [Plotly](https://plot.ly/) format for interactive data visualizations. With Plotly, you can design almost any kind of visualization you can imagine!
 
@@ -154,4 +155,4 @@ renders as
 
 {{< table path="results.csv" header="true" caption="Table 1: My results" >}}
 
-## Did you find this page helpful? Consider sharing it 🙌
+## Did you find this page helpful? Consider sharing it 🙌 -->
